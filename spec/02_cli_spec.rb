@@ -10,6 +10,5 @@ describe './bin/greet executing a CLI Application' do
     run_file("./bin/greet")
   end
 
-  
-  end
 
+  end
